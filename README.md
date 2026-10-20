@@ -1,127 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Frank%20Tetteh&fontSize=64&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Engineer%20%7C%20Accra%2C%20Ghana&descAlignY=58&descSize=20" alt="Frank Tetteh banner" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:6366f1&height=170&section=header&text=Frank%20Tetteh&fontColor=ffffff&fontSize=44&fontAlignY=45&animation=fadeIn&desc=Full%20Stack%20Engineer%20%C2%B7%20Accra%2C%20Ghana&descAlignY=68&descSize=17" alt="Frank Tetteh" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=640&lines=Full+Stack+Engineer+%F0%9F%9A%80;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Flutter+%C2%B7+Laravel+%C2%B7+FastAPI;Building+products+that+ship+and+scale" alt="Typing animation" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=1200&color=A5B4FC&center=true&vCenter=true&width=560&lines=React+%C2%B7+Next.js+%C2%B7+TypeScript;Node.js+%C2%B7+Laravel+%C2%B7+FastAPI;Flutter+for+mobile;Open+to+roles+and+freelance+work" alt="Typing animation" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-franktetteh.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://franktetteh.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Frank%20Tetteh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frank-tetteh-a64900259)
-[![Email](https://img.shields.io/badge/Email-frankiekweku@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frankiekweku@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=frankielaroi&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile views" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=white)](https://franktetteh.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frank-tetteh-a64900259)
+[![Upwork](https://img.shields.io/badge/Upwork-0f172a?style=flat-square&logo=upwork&logoColor=6FDA44)](https://www.upwork.com/freelancers/~0101466c18e5d19ab4)
+[![Email](https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=white)](mailto:frankiekweku@gmail.com)
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## About
 
-Full stack engineer with about **3 years** of professional experience building and shipping production web and mobile applications. I hold a **BTech in Computer Science (Second Upper Honours)** from Koforidua Technical University.
+Full stack engineer with about three years of experience shipping production web and mobile apps. BTech in Computer Science (Second Upper Honours), Koforidua Technical University.
 
-- 🔭 Building frontend for a **live battery-swapping platform** across African markets at **Kofa Technologies**
-- 💊 Founder-builder of **PharmaSysGH**, a pharmacy management SaaS in active use
-- 🛡️ Into **fintech infrastructure** and **cybersecurity**
-- 🌍 Based in **Accra, Ghana** (GMT)
-- 📫 Open to roles and freelance projects, reach me at **frankiekweku@gmail.com**
+<br/>
 
----
-
-## 🛠️ Tech Stack
+## Stack
 
 <div align="center">
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux&theme=dark" alt="Frontend skills" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,python,fastapi,spring&theme=dark" alt="Backend skills" />
-
-**Mobile · Databases · DevOps**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,mysql,postgres,mongodb,redis,docker,githubactions,vercel,aws,linux,git&theme=dark" alt="Mobile, database and DevOps skills" />
-
-**Testing & Design**
-
-<img src="https://skillicons.dev/icons?i=jest,cypress,figma&theme=dark" alt="Testing and design tools" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,nodejs,express,nestjs,php,laravel,python,fastapi&theme=dark" alt="Web stack" />
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,mysql,postgres,mongodb,redis,docker,githubactions,vercel,git,figma,jest&theme=dark" alt="Mobile, data and tooling" />
 
 </div>
 
----
+<br/>
 
-## 🚀 Featured Projects
+## Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💊 PharmaSysGH
-Multi-branch pharmacy management SaaS, currently in active use.
+**PharmaSysGH**
 
-- Multi-branch POS and real-time inventory tracking
-- Supplier management and staff role-based access
-- Reporting dashboards
-- **Stack:** React, Next.js, Node.js, MySQL, Vercel CI/CD
+Multi-branch pharmacy platform in active use: POS, real-time inventory, supplier management, staff roles, and reporting.
+
+`React` `Next.js` `Node.js` `MySQL`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 FinWatch
-Financial crime (AML) detection platform, built end to end.
+**FinWatch**
 
-- FastAPI backend with PostgreSQL and Alembic migrations
-- Redis-backed async workers with dead-letter retry
-- XGBoost model registry, API key auth, RBAC, Prometheus observability
-- React dashboard for alert queues, case management, and evidence review
+Anti-money-laundering detection platform: ML scoring, async workers with retry, case management, and observability.
+
+`FastAPI` `PostgreSQL` `Redis` `XGBoost` `React`
 
 </td>
 </tr>
 </table>
 
----
+More at **[franktetteh.vercel.app](https://franktetteh.vercel.app)**.
 
-## 💼 Experience
+<br/>
 
-| Role | Company | Period |
-|------|---------|--------|
-| Frontend Developer | **Kofa Technologies** | Sep 2026 – Present |
-| Full Stack Engineer | **Reuben Foundation Africa** | Nov 2024 – Aug 2026 |
-| Frontend Developer | **Hepeps IT Solutions** | Jun 2024 – Jan 2025 |
-| Full Stack Engineer | **Regional Maritime University** | Oct 2024 – Nov 2024 |
-| Full Stack Engineer | **AfRipul Group** | Jan 2024 – Jun 2024 |
+## Experience
 
----
+| | | |
+|---|---|---|
+| **Frontend Developer** | Kofa Technologies | 2026 – now |
+| **Full Stack Engineer** | Reuben Foundation Africa | 2024 – 2026 |
+| **Frontend Developer** | Hepeps IT Solutions | 2024 – 2025 |
+| **Full Stack Engineer** | Regional Maritime University | 2024 |
+| **Full Stack Engineer** | AfRipul Group | 2024 |
 
-## 📊 GitHub Stats
+<br/>
+
+## GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=frankielaroi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankielaroi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=frankielaroi&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=frankielaroi&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" alt="Contribution graph" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=frankielaroi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A5B4FC&icon_color=6366f1" alt="GitHub stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankielaroi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A5B4FC" alt="Top languages" />
 
 </div>
 
----
-
-## 🤝 Let's Connect
+<br/>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge)](https://franktetteh.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/frank-tetteh-a64900259)
-[![Email](https://img.shields.io/badge/✉️_Email_Me-EA4335?style=for-the-badge)](mailto:frankiekweku@gmail.com)
-
-<i>"Driven by a passion for innovation, I strive to create software that makes a difference."</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:6366f1&height=90&section=footer" alt="" />
 
 </div>
